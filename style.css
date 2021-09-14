@@ -1,0 +1,41 @@
+.purple{
+    color: purple;
+}
+
+.red{
+    color: red;
+}
+
+.green{
+    color: green;
+}
+
+.orange{
+    color: orange;
+}
+
+.pink{
+    color: rgb(247, 105, 216);
+}
+
+.blue{
+    color: blue;
+}
+
+.brown{
+    color: rgb(150, 116, 65);
+}
+
+.box-border-medium{
+    border: 2px solid black;
+    width: 70%;
+}
+
+.box-border-small{
+    border: 2px solid black;
+    width: 45%;
+}
+
+.box-border{
+    border: 2px solid black;
+}
